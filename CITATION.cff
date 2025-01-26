@@ -1,0 +1,8 @@
+cff-version: 1
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Augustine
+  given-names: Farhan
+orcid: https://orcid.org/0000-0002-8348-6039
+title: 3D Mitochondria Analysis
+date-released: 2025-01-26
