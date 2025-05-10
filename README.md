@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/922587650.svg)](https://doi.org/10.5281/zenodo.15379987)
 # Mitochondrial Morphology Analysis Script
 
 This Jupyter Notebook-based Python script performs a comprehensive analysis of mitochondrial morphology data. It includes data loading, descriptive statistics, correlation analysis, dimensionality reduction (PCA), clustering (K-Means), and statistical testing.
